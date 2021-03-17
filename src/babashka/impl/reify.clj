@@ -69,6 +69,9 @@
      postVisitDirectory [[this p attrs]]
      visitFile          [[this p attrs]]}
 
+    java.io.Serializable
+    {}
+
     java.io.FileFilter
     {accept [[this f]]}
 

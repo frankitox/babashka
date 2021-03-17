@@ -97,6 +97,7 @@
           java.io.FileNotFoundException
           java.io.InputStream
           java.io.IOException
+          java.io.Serializable
           java.io.OutputStream
           java.io.FileReader
           java.io.InputStreamReader
